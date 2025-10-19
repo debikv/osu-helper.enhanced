@@ -112,7 +112,7 @@
 2. **Клонируйте репозиторий:**
    ```bash
    git clone https://github.com/debikv/osu-helper.enhanced.git
-   cd osu-helper-enhanced
+   cd osu-helper.enhanced
    ```
 
 3. **Установите зависимости:**
@@ -302,7 +302,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Areas for improvement:**
 - Additional statistics visualizations
 - More color schemes
-- Linux/Mac support
 - Additional game mode support
 - Performance optimizations
 
@@ -313,7 +312,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Области для улучшения:**
 - Дополнительные визуализации статистики
 - Больше цветовых схем
-- Поддержка Linux/Mac
 - Поддержка дополнительных игровых режимов
 - Оптимизация производительности
 
@@ -324,7 +322,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 **Created by / Создано:**
 - Kiro AI
 - Manus AI
-- debikv tupoi vibecoder
+- debikv
 
 **Special Thanks / Особая благодарность:**
 - [TOSU](https://github.com/KotRikD/tosu) - For providing real-time osu! data
