@@ -81,7 +81,7 @@
 
 2. **Clone repository:**
    ```bash
-   git clone https://github.com/yourusername/osu-helper-enhanced.git
+   git clone https://github.com/debikv/osu-helper.enhanced.git
    cd osu-helper-enhanced
    ```
 
@@ -111,7 +111,7 @@
 
 2. **Клонируйте репозиторий:**
    ```bash
-   git clone https://github.com/yourusername/osu-helper-enhanced.git
+   git clone https://github.com/debikv/osu-helper.enhanced.git
    cd osu-helper-enhanced
    ```
 
@@ -132,7 +132,7 @@
 ### EN:
 
 **Basic Setup:**
-1. Start TOSU (it should run on `ws://localhost:24050/ws`)
+1. Start TOSU (it should run on `localhost:24050`)
 2. Launch osu!helper
 3. Click "Start Monitoring"
 4. Set your miss threshold (e.g., 5)
@@ -159,7 +159,7 @@
 ### RU:
 
 **Базовая настройка:**
-1. Запустите TOSU (должен работать на `ws://localhost:24050/ws`)
+1. Запустите TOSU (должен работать на `localhost:24050`)
 2. Запустите osu!helper
 3. Нажмите "Начать мониторинг"
 4. Установите порог миссов (например, 5)
