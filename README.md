@@ -82,7 +82,7 @@
 2. **Clone repository:**
    ```bash
    git clone https://github.com/debikv/osu-helper.enhanced.git
-   cd osu-helper-enhanced
+   cd osu-helper.enhanced
    ```
 
 3. **Install dependencies:**
